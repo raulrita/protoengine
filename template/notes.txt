@@ -1,0 +1,8 @@
+Empty template
+
+- This the the starting poing
+- You get a window that you can customize
+- Check external/engine.h region CONFIG
+- The window icon can also be changed
+	- build/res/icon.ico
+- To close the window use Escape or alt+F4

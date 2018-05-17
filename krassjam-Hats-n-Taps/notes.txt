@@ -1,0 +1,22 @@
+STREAMING
+
+#KRASS JAM 4
+
+Krass Jam THEMES:
+1. A shooting game where you drive tanks with puppies and you're a cyborg.
+2. A student project where you ostracize familiar scents from outside the game.
+3. A puzzle game where you collect hats for the mega-bonus.
+
+Most likely idea - 3rd
+
+My Rules:
+- Coding almost (exception: stb-image) everything from scratch using only a c compiler.
+- Compiler Tiny C - under 2mb uncompressed
+- Using opengl
+
+
+Notes on code:
+- check out the main loop time - we're always following behind
+  - deactivated for now since it's logging evert tick
+- clean up opengl.c - remove all shit from framebuffer stuff test
+- check out dds loader - to maybe remove stb_image
