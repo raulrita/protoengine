@@ -27,10 +27,11 @@ To create new Prototype:
 ------------------------------------------------------------------------------------------
 
 Config: (source/engine.h CONFIG ZONE)
-char APP_NAME[] = "WorkingTitle";
-int DISPLAY_WIDTH = 1280;
-int DISPLAY_HEIGHT = 720;
-bool FULL_SCREEN = false;
-bool PIXEL_ART = false;
-bool SHOW_CURSOR = false;
-bool DEBUG = false;
+
+char APP_NAME[] = "WorkingTitle"
+int DISPLAY_WIDTH = 1280
+int DISPLAY_HEIGHT = 720
+bool FULL_SCREEN = false
+bool PIXEL_ART = false
+bool SHOW_CURSOR = false
+bool DEBUG = false
